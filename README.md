@@ -5,6 +5,8 @@
 <p> 🐱‍💻 Best Wordpress Mass Sh3ll Upload 🐱‍💻  </p>
 
 <h2>better then human bot</h2>
+<h1> put ubb.zip in c:/ path</h1>
+<h1> site format : http://wwwsite.com/wp-login.php|ser|pass</h1>
 
 <img src="https://i.ibb.co/Nj4Hr4v/1.png" data-canonical-src="https://i.ibb.co/Nj4Hr4v/1.png" style="max-width:100%;">
 
@@ -12,13 +14,6 @@
 I'M NOT RESPONSIBLE FOR ANY MISUSE OF THIS SCRIPT. 
 IT IS FOR EDUCATIONAL PURPOSES ONLY.
 NEVER HACK PEOPLE WITHOUT THEIR CONSENT. DO NOT USE THIS SCRIPT FOR Hacking
-```
-
-
-```bash
-git clone https://github.com/MisterSpyx/WpMassUpload.git
-cd WP-SMTP-0DAY
-python 0day.py
 ```
 
 
